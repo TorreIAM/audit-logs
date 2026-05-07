@@ -10,17 +10,18 @@ Entra ID.<br />
 - Windows 11
 <h2>Audit Logs </h2>
 <p>
-<img width="953" height="389" alt="chris audit logs" src="https://github.com/user-attachments/assets/92e85e11-9da1-48de-998a-e330a6355fbc" />
+<img width="945" height="380" alt="chris audit logs" src="https://github.com/user-attachments/assets/09a7c016-4581-4534-944a-9a26592f0713" />
 </p>
 <p>
 Audit Logs of user Chris Walker.
 </p>
 <br />
 <p>
-<img width="952" height="287" alt="jordan audit logs" src="https://github.com/user-attachments/assets/2e2d17a7-d0f7-4c1f-95fe-3534da7a0203" />
+<img width="946" height="375" alt="jordan audit logs" src="https://github.com/user-attachments/assets/eec63706-1969-4fec-a422-388f08e05b54" />
 </p>
 <p>
 Audit Logs of user Jordan Lee.
 </p>
+
 
 
